@@ -1,4 +1,3 @@
-# CV Saya
-
 ## Preview CV
-![Preview CV](preview-cv.jpg)# cv-html
+
+![Preview CV](cv-naura-%20update-jpg)
